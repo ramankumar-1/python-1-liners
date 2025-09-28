@@ -1,0 +1,3 @@
+1. Read a text file and store its lines in a List.
+2. List of all prime numbers from 1 to 100.
+3. Read an input string & check if it's Palindrome. 
